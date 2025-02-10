@@ -1,0 +1,14 @@
+/Users/konstantinokriashvili/RiderProjects/project_2mod/project_2mod/bin/Debug/net8.0/project_2mod
+/Users/konstantinokriashvili/RiderProjects/project_2mod/project_2mod/bin/Debug/net8.0/project_2mod.deps.json
+/Users/konstantinokriashvili/RiderProjects/project_2mod/project_2mod/bin/Debug/net8.0/project_2mod.runtimeconfig.json
+/Users/konstantinokriashvili/RiderProjects/project_2mod/project_2mod/bin/Debug/net8.0/project_2mod.dll
+/Users/konstantinokriashvili/RiderProjects/project_2mod/project_2mod/bin/Debug/net8.0/project_2mod.pdb
+/Users/konstantinokriashvili/RiderProjects/project_2mod/project_2mod/obj/Debug/net8.0/project_2mod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konstantinokriashvili/RiderProjects/project_2mod/project_2mod/obj/Debug/net8.0/project_2mod.AssemblyInfoInputs.cache
+/Users/konstantinokriashvili/RiderProjects/project_2mod/project_2mod/obj/Debug/net8.0/project_2mod.AssemblyInfo.cs
+/Users/konstantinokriashvili/RiderProjects/project_2mod/project_2mod/obj/Debug/net8.0/project_2mod.csproj.CoreCompileInputs.cache
+/Users/konstantinokriashvili/RiderProjects/project_2mod/project_2mod/obj/Debug/net8.0/project_2mod.dll
+/Users/konstantinokriashvili/RiderProjects/project_2mod/project_2mod/obj/Debug/net8.0/refint/project_2mod.dll
+/Users/konstantinokriashvili/RiderProjects/project_2mod/project_2mod/obj/Debug/net8.0/project_2mod.pdb
+/Users/konstantinokriashvili/RiderProjects/project_2mod/project_2mod/obj/Debug/net8.0/project_2mod.genruntimeconfig.cache
+/Users/konstantinokriashvili/RiderProjects/project_2mod/project_2mod/obj/Debug/net8.0/ref/project_2mod.dll
